@@ -1,0 +1,39 @@
+[
+  {
+    "text": "meetingCard",
+    "link": "sdfsdfsdf",
+    "sidebar":{
+      "name": "ss",
+      "datetime": "Today, 18:15",
+      "title": "Celebrate Team Lunch",
+      "description": "Office: District 2 HQ",
+      "image": "logo192.png"
+      
+    }
+    
+  },  
+  {
+    "text": "meetingCard",
+    "link": "sdfsdfsdf",
+    "sidebar":{
+      "name": "ss",
+      "datetime": "Today, 18:15",
+      "title": "Celebrate Team Lunch",
+      "description": "Office: District 2 HQ",
+      "image": "logo192.png"
+
+    }
+    
+  }, 
+  {
+    "text": "meetingCard",
+    "link": "sdfsdfsdf",
+    "sidebar":{
+      "name": "ss",
+      "datetime": "Today, 18:15",
+      "title": "Celebrate Team Lunch",
+      "description": "Office: District 2 HQ"
+    }
+    
+  }
+]
